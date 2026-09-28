@@ -1,2 +1,2 @@
 # Tasariks-prompt-labs
-Proptlar
+Proptlatımı paylaşacaığım mani pilasyon kodşarımı vs. 
