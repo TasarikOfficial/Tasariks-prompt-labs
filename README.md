@@ -1,53 +1,53 @@
 <div align="center">
 
-# Tasariks Prompt Labs
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1800&color=3B82F6&center=true&vCenter=true&width=820&lines=Tasarik+Prompt+Labs;Yapay+zeka+istemleri+ara%C5%9Ft%C4%B1rma+ar%C5%9Fivi" alt="Tasarik Prompt Labs" />
 
-**Yapay zekâ istemleri üzerine deneysel çalışma arşivi**
+### Yapay zekâ istemleri üzerine deneysel çalışma arşivi
 
-Modellerin yanıtlarını, istem tasarımını ve güvenli kullanım sınırlarını incelemek için kişisel bir koleksiyon.
-
-[İçeriğe göz at](#arşivde-neler-var) · [Güvenli kullanım](#sorumlu-kullanım)
+Modellerin istemlere verdiği yanıtları incelemek ve yapay zekâ davranışlarını daha iyi anlamak için kişisel bir koleksiyon.
 
 </div>
 
 ---
 
-## Bu depo hakkında
+## 🧪 Prompt laboratuvarları
 
-Bu depo; farklı yapay zekâ modelleri için hazırlanmış istem örneklerini ve deneme notlarını bir araya getirir. Amaç, istemlerin model davranışını nasıl etkilediğini gözlemlemek ve yapay zekâ sistemlerini daha iyi anlamaktır.
+Arşivdeki deney dosyalarına model ve konu başlıklarına göre göz at:
 
-İçerikler kişisel deneylerden oluşur; doğrulukları, güncellikleri veya her modelde çalışacakları garanti edilmez.
+| Laboratuvar | Arşiv dosyası |
+|---|---|
+| <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /> | [Claude deney dosyası](./Claude%20Maniplisyon) |
+| <img src="https://img.shields.io/badge/DeepSeek-007AFF?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" /> | [DeepSeek deney dosyası](./DeepSeek%20MAniPilasyon) |
+| <img src="https://img.shields.io/badge/Gemini-8E44AD?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> | [Gemini deney dosyası](./Geminni%203.1%20Flask-Lite%20ByPass%20Propmt%20tu) |
+| <img src="https://img.shields.io/badge/Qwen-6246EA?style=flat-square&logo=alibaba&logoColor=white" alt="Qwen" /> | [Qwen deney dosyası](./qwen%20maniplasyon) |
+| <img src="https://img.shields.io/badge/Axiom-111827?style=flat-square&logo=github&logoColor=white" alt="Axiom" /> | [Axiom Hacker Hikayesi](./Axiom%20Hacker%20Hikayesi) |
+| <img src="https://img.shields.io/badge/TribbleMouse-374151?style=flat-square&logo=github&logoColor=white" alt="TribbleMouse" /> | [TribbleMouse deney dosyası](./TribbleMouse) |
+| <img src="https://img.shields.io/badge/Lubv-374151?style=flat-square&logo=github&logoColor=white" alt="Lubv" /> | [Lubv deney dosyası](./Lubv) |
 
-## Arşivde neler var?
+---
 
-Depoda şu anda farklı modeller ve istem denemeleri için ayrı metin dosyaları bulunuyor:
+## 🔬 Bu proje hakkında
 
-- Claude, DeepSeek, Gemini ve Qwen için istem örnekleri
-- Axiom Hacker Hikayesi ve TribbleMouse başlıklı deneysel dosyalar
-- Diğer kısa istem ve araştırma notları
+Bu depo; farklı modeller ve istem biçimleriyle yapılan denemeleri düzenli biçimde saklar. Dosyalar kişisel araştırma arşividir; içeriklerin güncelliği, doğruluğu veya belirli bir modelde çalışacağı garanti edilmez.
 
-Dosyalar arşiv niteliğindedir. İsimler, içeriklerin güvenli veya etkili olduğu anlamına gelmez.
+## ⚠️ Sorumlu kullanım
 
-## Sorumlu kullanım
+Bazı arşiv dosyaları modellerin güvenlik önlemlerini aşmayı hedefleyen istemler içerebilir. İçerikleri yalnızca izinli ve kontrollü araştırma ortamlarında incele.
 
-Bazı istemler modellerin güvenlik önlemlerini aşmayı hedefleyen içerikler barındırabilir. Bu nedenle:
-
-- İstemleri yalnızca izinli ve kontrollü test ortamlarında incele.
-- Güvenlik önlemlerini aşmak, zararlı talimat üretmek veya başkalarına zarar vermek için kullanma.
+- Güvenlik önlemlerini aşmak veya zararlı çıktı almak için kullanma.
 - Gerçek kişilere, hesaplara, cihazlara ya da hizmetlere karşı izinsiz deneme yapma.
-- Bir modelin güvenlik açığı olduğunu düşünüyorsan, ilgili sağlayıcının sorumlu bildirim kanalını kullan.
+- Güvenlik açığı fark edersen ilgili sağlayıcının sorumlu bildirim kanalına ilet.
+- Bu bilgilendirme, kullanım sorumluluğunu ortadan kaldırmaz ve hukuki danışmanlık değildir.
 
-Bu açıklama, içeriğin kullanımından doğan sorumluluğu ortadan kaldırmaz veya hukuki danışmanlık yerine geçmez.
+## 🤝 Katkı
 
-## Katkı ve düzeltmeler
-
-Yazım hatası, açıklama veya güvenli kullanım önerisi için GitHub üzerinden değişiklik önerebilirsin. Yeni içerik eklerken kaynağı belirt, kişisel verileri paylaşma ve güvenli kullanım bağlamını açıkça yaz.
+Yazım düzeltmesi, dosya açıklaması veya güvenli araştırma önerileri için GitHub üzerinden katkı gönderebilirsin. Kişisel verileri ekleme; yeni dosyalara kaynak ve güvenli kullanım bağlamı ekle.
 
 ---
 
 <div align="center">
 
 **Tasarik · Prompt Labs**  
-Deneyle. Gözlemle. Sorumlu paylaş.
+Deneyle · Gözlemle · Sorumlu paylaş
 
 </div>
