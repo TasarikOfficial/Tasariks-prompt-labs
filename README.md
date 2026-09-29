@@ -6,3 +6,7 @@ Yapay zeka modellerinin sınırlarını zorlamak, prompt mühendisliği üzerine
 BU Proje Tmamamen Yapay Zeka İle Eğitim Siber Güvenlik  Yapay Zeka Mantığı anlaşılma ıs içimn yappılmıştır kötüye kullanımından sorumluluk Propmttu  Kötüye Kullanılan kişe aittir 
 Prpompt tu yazınınn hiçbir yükümü yoktur
 Propmt u kullanrak Bütün SOmrumluluğu kabul etmiş olursun her hangi bir sorumda siz sorumlu tuutlursununz
+
+
+Propmpt Lar Selo-GPT den alınmıştır 
+Bazılrını kendim buşdum :)
